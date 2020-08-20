@@ -7,7 +7,7 @@ import time
 
 def greet():
     subprocess.call(["clear"])
-    print("ARP spoof 0.01 [MITM] by Ravehorn\n")
+    print("ARP Spoofer 0.01 [MITM] by Ravehorn\n")
 
 
 def ifconfig():
