@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+import setup
 import scapy.all as scapy
 import subprocess
 import re
